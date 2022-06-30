@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliMcG
 - 👀 I’m interested in learning how to code and what can be done with this skill.
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Javascript, React.js, Node.js/Express.js, Python, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
