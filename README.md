@@ -4,6 +4,7 @@
 - 💞️ I’m looking to develop my skills on the front-end with React.js and CSS, expand my knowledge of API CRUD routes with Node.js/Express.js and Django on the back end, and continuing to work with SQL and non-SQL databases.
 - 📫 You can find me on LinkedIn - https://www.linkedin.com/in/alistair-mcgill-30a404106/
 - 📫 I also have a portfolio - https://ali-mcgill-my-portfolio.netlify.app/
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
 
 <!---
 AliMcG/AliMcG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
