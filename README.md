@@ -9,7 +9,7 @@
 <h2 align="center"><a href="https://ali-mcgill-my-portfolio.netlify.app" target="blank">Portfolio</a></h2>
 <br />
 
-<p align="center"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /> </p>
+<p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
 
 
