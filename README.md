@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Javascript, Typescript, React.js, Node.js/Express.js, Python, HTML and CSS
 - 💞️ I’m looking to develop my skills on the front-end with React.js and CSS, expand my knowledge of API CRUD routes with Node.js/Express.js and Django on the back end, and continuing to work with SQL and non-SQL databases.
 - 📫 You can find me on LinkedIn - https://www.linkedin.com/in/alistair-mcgill-30a404106/
-- 📫 I also have a portfolio - https://ali-mcgill-my-portfolio.netlify.app/
+
+<p align="center"><a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a></p>
+
 <h2 align="center"><a href="https://ali-mcgill-my-portfolio.netlify.app" target="blank">Portfolio</a></h2>
 <br />
 
