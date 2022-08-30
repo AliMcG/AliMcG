@@ -18,8 +18,8 @@
 <details align="center">
 <summary>Click for GitHub Stats</summary>
 <br />
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark&hide_border=false" height="250px" /> </a>
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&hide_border=false" height="250px" /> </a>
+    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark&hide_border=false" /> </a>
+    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&hide_border=false"  /> </a>
  <br />
 </details>
 
