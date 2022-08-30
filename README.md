@@ -12,6 +12,8 @@
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
 
+[![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details align="center">
 <summary>Click for GitHub Stats</summary>
