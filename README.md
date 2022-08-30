@@ -12,14 +12,14 @@
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
 
-[![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!---![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)--->
 
 <details align="center">
 <summary>Click for GitHub Stats</summary>
 <br />
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
+    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark&hide_border=false" height="250px" /> </a>
+    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&hide_border=false" height="250px" /> </a>
  <br />
 </details>
 
