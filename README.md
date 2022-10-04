@@ -16,10 +16,10 @@
 //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)--->
 
 
-<br />
+<!---<br />
     <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=270px /> </a>
     <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=270px /> </a>
- <br />
+ <br />--->
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
