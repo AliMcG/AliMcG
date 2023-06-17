@@ -1,7 +1,12 @@
 # Hi, I’m Ali
-- 👀 I’m interested in learning how to code and what can be done with this skill.
-- 🌱 I’m currently learning Javascript, Typescript, React.js, Node.js/Express.js, Python, HTML and CSS
-- 💞️ I’m looking to develop my skills on the front-end with React.js and CSS, expand my knowledge of API CRUD routes with Node.js/Express.js and Django on the back end, and continuing to work with SQL and non-SQL databases.
+- 💞️ I love building ideas and designs in clean code.
+- 🌳 I am proficient in TailwindCSS, Next.js with Typescript
+- 🌱 I’m continuously developing my skills in Javascript, Typescript, React.js, Node.js, HTML and CSS
+- 👀 I’m always looking for new projects to keep my deveolper skills sharp.
+  - with React.js and CSS,
+  - expand my knowledge of API design with Node.js/Express.js
+  - explore other frameworks
+  - continuing to work with SQL and non-SQL databases, like MongoDB
 <br />
 
 <p align="center"><a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a></p>
@@ -11,9 +16,8 @@
 
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 
-
-<!---![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)--->
+<!--![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)
 
 
 <!---<br />
