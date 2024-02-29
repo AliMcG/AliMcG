@@ -16,8 +16,17 @@
 
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 
-<!--![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark)
+
+<!---![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&langs_count=3)
+--->
+<a href="https://github.com/AliMcG/AliMcG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&hide=java,html,tex&theme=dark&langs_count=3" alt="top langs" />
+</a>
+<a href="https://github.com/AliMcG/AliMcG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliMcG&show_icons=true&line_height=27&count_private=true&hide=java,html,tex&theme=dark" alt="Ali's GitHub Stats" />
+</a>
 
 
 <!---<br />
