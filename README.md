@@ -15,28 +15,15 @@
 <br />
 
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
-
-
-<!---![AliMcG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&langs_count=3)
---->
-<a href="https://github.com/AliMcG/AliMcG">
+<div align="center">
+  <a href="https://github.com/AliMcG/AliMcG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&hide=java,html,tex&theme=dark&langs_count=3" alt="top langs" />
 </a>
 <a href="https://github.com/AliMcG/AliMcG">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliMcG&show_icons=true&line_height=27&count_private=true&hide=java,html,tex&theme=dark" alt="Ali's GitHub Stats" />
 </a>
-
-
-<!---<br />
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliMcG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=270px /> </a>
-    <a href="https://github.com/AliMcG/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=270px /> </a>
- <br />--->
-
+</div>
+&nbsp;
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliMcG&label=Profile%20views&color=0e75b6&style=plastic" alt="AliMcG" /> </p>
-<!---
-AliMcG/AliMcG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
