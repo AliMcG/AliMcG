@@ -12,7 +12,8 @@
 ![](https://img.shields.io/badge/Editor-VScode_IDE-informational?style=flat&logo=intellij-idea&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0077b5)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=0077b5)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=0077b5)
+![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0077b5)
 
 ![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=0077b5)
