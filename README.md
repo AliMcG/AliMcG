@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0077b5)
 
-<br />
 
 ## 🔗 Connect with me 
 <a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a>
