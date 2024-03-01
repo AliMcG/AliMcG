@@ -21,11 +21,14 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0077b5)
 
 <br />
-
+## LinkedIn
 <p align="center"><a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a></p>
 
+## Porfolio & Documentation site
 <h2 align="center"><a href="https://www.alistairmcgill.co.uk/" target="blank">Portfolio</a></h2>
 <br />
+
+## &#x1f4c8; GitHub Stats
 
 <p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 <div align="center">
