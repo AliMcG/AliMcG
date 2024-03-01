@@ -11,13 +11,15 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Editor-VScode_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0077b5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=0077b5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0077b5)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0077b5)
+![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0077b5)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0077b5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0077b5)
 
