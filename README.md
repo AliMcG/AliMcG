@@ -1,4 +1,4 @@
-# Hi, I’m Ali
+# Hi, I’m Ali <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 - 💞️ I love building ideas and designs in clean code.
 - 🌳 I am proficient in TailwindCSS, Next.js with Typescript
 - 🌱 I’m continuously developing my skills in Javascript, Typescript, React.js, Node.js, HTML and CSS
@@ -22,16 +22,20 @@
 
 <br />
 
-## LinkedIn
-<p align="center"><a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a></p>
+## 🔗 Connect with me 
+<a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a>
 
-## Porfolio & Documentation site
-<h2 align="center"><a href="https://www.alistairmcgill.co.uk/" target="blank">Portfolio</a></h2>
+## 💼 Portfolio Documentation site
+Check out my portfolio and documentation site <a href="https://www.alistairmcgill.co.uk/" target="blank">Portfolio</a> which is built with <a href="https://docusaurus.io/" target="blank">Docusaurus</a>
 <br />
+
+## 🥋 CodeWars stats
+
+<p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
+
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center"><a href="https://www.codewars.com/"> <img src="https://www.codewars.com/users/AliMcG/badges/large"" alt="AliMcG" /></a></p>
 <div align="center">
   <a href="https://github.com/AliMcG/AliMcG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMcG&hide=java,html,tex&theme=dark&langs_count=3" alt="top langs" />
