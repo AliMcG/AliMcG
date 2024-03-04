@@ -1,4 +1,4 @@
-# Hi, I’m Ali <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi I’m Ali <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 - 💞️ I love building ideas and designs in clean code.
 - 🌳 I am proficient in TailwindCSS, Next.js with Typescript
 - 🌱 I’m continuously developing my skills in Javascript, Typescript, React.js, Node.js, HTML and CSS
