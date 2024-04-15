@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/alistair-mcgill-30a404106/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AliMcG" /></a>
 
 ## 💼 Portfolio Documentation site
-Check out my portfolio and documentation site <a href="https://www.alistairmcgill.co.uk/" target="blank">Portfolio</a> which is built with <a href="https://docusaurus.io/" target="blank">Docusaurus</a>
+Check out my portfolio and documentation site <a href="https://www.alistairmcgill.co.uk/" target="blank">Portfolio</a>.
 <br />
 
 ## 🥋 CodeWars stats
